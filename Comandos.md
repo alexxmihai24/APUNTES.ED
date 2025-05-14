@@ -10,3 +10,10 @@ git status
 
 # Hacer commit
 git commit -m "Mensaje descriptivo"
+
+# Crear rama
+git branch nueva-rama
+
+# Fusionar ramas
+git checkout main
+git merge nueva-rama
